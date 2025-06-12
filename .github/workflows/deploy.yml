@@ -56,6 +56,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          path: ./dashboard-app
 
 # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
 permissions:
