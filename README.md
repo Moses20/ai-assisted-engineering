@@ -16,7 +16,7 @@ brew install node
 
 Application
 
-Install required models
+Install required model
 ```
 cd dashboard-app
 npm install 
