@@ -1,0 +1,9 @@
+
+
+// Chose which project to ignore i.e. work on:
+/dashboard-app
+
+node_modules
+
+.next
+
